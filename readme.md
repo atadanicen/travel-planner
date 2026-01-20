@@ -15,7 +15,7 @@ The AI Travel Planner app allows users to effortlessly create personalized trave
 
 ## Demo 🎥
 
-Here's a rapid overview of the project we're [building]("https://www.youtube.com/watch?v=Gmj6a3h-MRU").
+Here's a rapid overview of the project we're [building](https://www.youtube.com/watch?v=Gmj6a3h-MRU).
 
 ## Feedback
 
